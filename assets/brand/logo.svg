@@ -1,0 +1,11 @@
+<!-- Bois Tunisie — logo (brand mark). Replace with official logo if available. -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 92" width="320" height="92" role="img" aria-label="Bois Tunisie">
+  <rect x="4" y="22" width="48" height="48" rx="4" fill="#37424D"/>
+  <rect x="4" y="22" width="48" height="7" fill="#E8821E"/>
+  <g stroke="#E8821E" stroke-width="4" stroke-linecap="square">
+    <line x1="13" y1="40" x2="43" y2="40"/><line x1="13" y1="50" x2="43" y2="50"/><line x1="13" y1="60" x2="43" y2="60"/>
+  </g>
+  <text x="66" y="46" font-family="'Archivo', Arial, sans-serif" font-weight="800" font-size="26" fill="#1A2026" letter-spacing="-.5">BOIS</text>
+  <text x="128" y="46" font-family="'Archivo', Arial, sans-serif" font-weight="800" font-size="26" fill="#E8821E" letter-spacing="-.5">TUNISIE</text>
+  <text x="66" y="68" font-family="'IBM Plex Mono', monospace" font-weight="500" font-size="10" letter-spacing="2" fill="#5C6873">PALETTES · CAISSES · EMBALLAGE BOIS</text>
+</svg>
